@@ -1,0 +1,8 @@
+To Use Exposed Dropdown Firebase
+1. Make module for Database
+2. Make Fragment for TextInputLayout then replace it with autoCompleteTextView
+3. Make String array for exposed dropdown
+4. Next make adapter for string, layout, and adapter
+5. Implement fragment in MainActivity
+
+Note: For using this component, first don't change (parent theme)
