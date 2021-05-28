@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="date">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>09.00 ~ 10.30</item>
+        <item>10.30 ~ 12.00</item>
+        <item>12.00 ~ 13.30</item>
+        <item>13.30 ~ 15.00</item>
+        <item>15.00 ~ 16.30</item>
+        <item>16.30 ~ 18.00</item>
+        <item>18.00 ~ 19.30</item>
+        <item>19.30 ~ 21.00</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Jakarta</item>
+        <item>Surabaya</item>
+        <item>Bandung</item>
+        <item>Semarang</item>
+        <item>Palembang</item>
+        <item>Jogjakarta</item>
+    </string-array>
+
+    <string name="sample_dropdown">Sample Dropdown</string>
+    <string name="date">Date</string>
+    <string name="choose_date">Choose Date</string>
+    <string name="sample">Sample</string>
+    <string name="time">Time</string>
+    <string name="choose_time">Choose Time</string>
+    <string name="choose_location">Choose Location</string>
+    <string name="location">Location</string>
+    <string name="save_data">Save Data</string>
+</resources>

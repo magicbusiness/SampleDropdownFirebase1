@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "212070971753",
+    "firebase_url": "https://fir-dropdown-default-rtdb.firebaseio.com",
+    "project_id": "fir-dropdown",
+    "storage_bucket": "fir-dropdown.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212070971753:android:a6f2281c05af5f5c06e5f8",
+        "android_client_info": {
+          "package_name": "com.dropink.sampledropdownfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212070971753-h8mu0bia3qs42gipp424kosdvdshqkgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTeQhhYhTuFlB5ZIAdwW_m_QmxiOThBFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212070971753-h8mu0bia3qs42gipp424kosdvdshqkgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
